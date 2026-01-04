@@ -1,0 +1,5 @@
+Copyright © 2026 BlueIsAtlantic
+All rights reserved.
+
+This software may be used but may not be modified, redistributed,
+or used commercially without explicit permission.
